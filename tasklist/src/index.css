@@ -1,0 +1,148 @@
+:root {
+  font-family:
+    "Segoe UI", "Aptos", Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #243648;
+  background: #f4f6f8;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --accent: #1d74b9;
+  --accent-strong: #15385f;
+  --page-bg: #f4f6f8;
+  --panel-bg: #ffffff;
+  --panel-muted: #f7f9fc;
+  --panel-active: #eef5fb;
+  --panel-subtle: #f2f5f8;
+  --border: rgba(36, 54, 72, 0.12);
+  --border-strong: rgba(36, 54, 72, 0.2);
+  --divider-soft: rgba(36, 54, 72, 0.04);
+  --divider: rgba(36, 54, 72, 0.08);
+  --divider-subtle: rgba(36, 54, 72, 0.06);
+  --text-h: #142231;
+  --text-soft: #5f7285;
+  --input-bg: #ffffff;
+  --button-primary-text: #ffffff;
+  --button-secondary-bg: #ffffff;
+  --button-secondary-border: rgba(36, 54, 72, 0.12);
+  --tab-bg: #ffffff;
+  --tab-active-bg: #15385f;
+  --tab-active-border: #15385f;
+  --tab-active-text: #ffffff;
+  --selected-border: #8bb7dd;
+  --focus-ring: rgba(29, 116, 185, 0.18);
+  --focus-border: rgba(29, 116, 185, 0.35);
+  --success-text: #1b7f5d;
+  --warning-text: #a45b10;
+  --error-text: #8a1c1c;
+  --warning-bg: #fff4e8;
+  --warning-border: #f1d3aa;
+  --success-bg: #edf8f3;
+  --success-border: #bde0cf;
+  --neutral-bg: #f1f6fb;
+  --neutral-border: #d4e2ef;
+  --error-bg: #fff1f1;
+  --error-border: #f2c2c2;
+}
+
+:root[data-theme="dark"] {
+  color: #d9e2ec;
+  background: #11161d;
+  --accent: #6bb2e8;
+  --accent-strong: #2b6b9d;
+  --page-bg: #11161d;
+  --panel-bg: #18202a;
+  --panel-muted: #1e2833;
+  --panel-active: #22384a;
+  --panel-subtle: #202a35;
+  --border: rgba(184, 202, 218, 0.14);
+  --border-strong: rgba(184, 202, 218, 0.24);
+  --divider-soft: rgba(184, 202, 218, 0.08);
+  --divider: rgba(184, 202, 218, 0.14);
+  --divider-subtle: rgba(184, 202, 218, 0.1);
+  --text-h: #f4f7fb;
+  --text-soft: #9eb0c3;
+  --input-bg: #121922;
+  --button-primary-text: #f4f7fb;
+  --button-secondary-bg: #18202a;
+  --button-secondary-border: rgba(184, 202, 218, 0.16);
+  --tab-bg: #18202a;
+  --tab-active-bg: #2b6b9d;
+  --tab-active-border: #2b6b9d;
+  --tab-active-text: #f4f7fb;
+  --selected-border: #6bb2e8;
+  --focus-ring: rgba(107, 178, 232, 0.22);
+  --focus-border: rgba(107, 178, 232, 0.45);
+  --success-text: #6fd0a1;
+  --warning-text: #f0bf72;
+  --error-text: #f08c95;
+  --warning-bg: #3a2b19;
+  --warning-border: #6e5533;
+  --success-bg: #183126;
+  --success-border: #31624a;
+  --neutral-bg: #1b2a38;
+  --neutral-border: #34546e;
+  --error-bg: #3a1f24;
+  --error-border: #75414a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  background: var(--page-bg);
+  color: var(--text-h);
+}
+
+html,
+body {
+  transition: background-color 140ms ease, color 140ms ease;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--text-h);
+  line-height: 1.08;
+}
+
+h1 {
+  font-size: clamp(2rem, 3vw, 3rem);
+  max-width: 14ch;
+}
+
+h2 {
+  font-size: clamp(1.1rem, 1.6vw, 1.35rem);
+}
+
+#root {
+  width: min(1280px, 100%);
+  margin: 0 auto;
+}

@@ -1,0 +1,77 @@
+id,title,completed,course,video
+1,Demonstrate the basic ability to navigate a file system and execute programs through both an interface (eg. File Explorer) and a shell (eg. powershell/command prompt),,,
+2,Use and understand the difference in primitive data types,,,
+3,Print to console,,https://ects-cmp.com/course_content/chapter-1-introduction-to-python-programming/,https://www.youtube.com/watch?v=2n1jKk78c3I
+4,Read from console,,,https://www.youtube.com/watch?v=malbLwPWHuA&pp=ygUYcmVhZCBmcm9tIGNvbnNvbGUgcHl0aG9u
+5,Use and understand conditional statements (if/else),,https://ects-cmp.com/course_content/chapter-03-control-flow-in-python/,https://www.youtube.com/watch?v=FvMPfrgGeKs&pp=ygU6VXNlIGFuZCB1bmRlcnN0YW5kIGNvbmRpdGlvbmFsIHN0YXRlbWVudHMgKGlmL2Vsc2UpIHB5dGhvbg%3D%3D
+6,"Use and understand logical operators (and, or, not) *excludes xor",,https://ects-cmp.com/course_content/chapter-03-control-flow-in-python/,https://www.youtube.com/watch?v=W7luvtXeQTA&pp=ygURYW5kIG9yIG5vdCBweXRob24%3D
+7,"Use and understand various loops (while, do while, for, for each)",,https://ects-cmp.com/course_content/chapter-03-control-flow-in-python/,https://www.youtube.com/watch?v=KWgYha0clzw&pp=ygUMbG9vcHMgcHl0aG9u
+8,"Create a flowchart showing at least decisions, processes, and looping.",,,
+9,"Use and understand arithmetic operators (+, -, /, *, % (mod))",,https://ects-cmp.com/course_content/chapter-2-primitive-types-in-python/,https://www.youtube.com/watch?v=XfBBeyBOzF0&pp=ygUeYXJpdGhtZXRpYyBvcGVyYXRvcnMgaW4gcHl0aG9u
+10,"Use and understand basic math functions (round, floor, ceiling, pow)",,https://ects-cmp.com/course_content/chapter-2-primitive-types-in-python/,https://www.youtube.com/watch?v=I75iq-LuW5Q&pp=ygVLVXNlIGFuZCB1bmRlcnN0YW5kIGJhc2ljIG1hdGggZnVuY3Rpb25zIChyb3VuZCwgZmxvb3IsIGNlaWxpbmcsIHBvdykgcHl0aG9u
+11,Demonstrate the difference between passing parameters by value or by reference,,,https://www.youtube.com/watch?v=aCDrcaYRU0I&pp=ygUscGFzc2luZyBhIHBhcmFtZXRlciBieSB2YWx1ZSBvciByZWZlcmVuY2UgcHk%3D
+12,Understand and use static variables,,,https://www.youtube.com/watch?v=PIKiHq1O9HQ&pp=ygUtVW5kZXJzdGFuZCBhbmQgdXNlIHN0YXRpYyB2YXJpYWJsZXMgaW4gcHl0aG9u
+13,Demonstrate an understanding of scope,,,https://www.youtube.com/watch?v=KyCw1uA1-M8&pp=ygUddW5kZXJzdGFuZGluZyBvZiBzY29wZSBweXRob24%3D
+14,Demonstrate an understanding of ASCII character values,,,https://www.youtube.com/watch?v=DaG4m7QNVM4&pp=ygUaYXNjaWkgY2hhcmFjdGVycyBpbiBweXRob24%3D
+15,Read from file,,,https://www.youtube.com/watch?v=4e3hYMbBThQ&pp=ygUicmVhZGluZyBhbmQgd3JpdGluZyBkYXRhIGluIHB5dGhvbg%3D%3D
+16,Write to file,,,https://www.youtube.com/watch?v=4e3hYMbBThQ&pp=ygUicmVhZGluZyBhbmQgd3JpdGluZyBkYXRhIGluIHB5dGhvbg%3D%3D
+17,Use and understand functions (including void/subs),,,https://www.youtube.com/watch?v=jr7sMJ1bdyY&pp=ygUZZnVuY3Rpb25zIHZvaWQvc3ViIHB5dGhvbg%3D%3D
+18,"Use and understand arrays (eg. single data type, fixed length, accessed by index)",,,https://www.youtube.com/watch?v=Rldzskbnjgo&pp=ygUOYXJyYXlzIHB5dGhvbiA%3D
+19,Use and understand lists,,,https://www.youtube.com/watch?v=tw7ror9x32s&pp=ygUNbGlzdHMgcHl0aG9uIA%3D%3D
+20,Demonstrate event handling (eg. do something on click),,,https://www.youtube.com/watch?v=ppwDbxZ0IK0&pp=ygUYZXZlbnQgaGFuZGxpbmcgaW4gcHl0aG9u
+21,Create and understand a class diagram,,,https://www.youtube.com/watch?v=ieftYl0UW4g&pp=ygUXY2xhc3MgZGlhZ3JhbSBpbiBweXRob24%3D
+22,Create a class and instantiate objects from it,,,https://www.youtube.com/watch?v=AsafkCAJpJ0&pp=ygUfY2xhc3MgYW5kIGluc3RhbnRpYXRlIGluIHB5dGhvbg%3D%3D
+23,Create and understand the purpose of accessor/mutator methods,,,https://www.youtube.com/watch?v=Sz9G0iwwHQI&pp=ygUsZSBwdXJwb3NlIG9mIGFjY2Vzc29yL211dGF0b3IgbWV0aG9kcyBweXRob27SBwkJyQkBhyohjO8%3D
+24,Inherit from a class,,,https://www.youtube.com/watch?v=an6wd3dpEjA&pp=ygUVaW5oZXJpdGFuY2UgaW4gcHl0aG9u
+25,Overload a function,,,https://www.youtube.com/watch?v=CcTzTuIsoFk&pp=ygUdb3ZlcmxvYWQgYSBmdW5jdGlvbiBpbiBweXRob24%3D
+26,Override a base class's method(s),,,https://www.youtube.com/watch?v=CcTzTuIsoFk&pp=ygUdb3ZlcmxvYWQgYSBmdW5jdGlvbiBpbiBweXRob24%3D
+27,Use and understand object composition (one class using another),,,https://www.youtube.com/watch?v=TPUdUkFHD5I&pp=ygUZb2JqZWN0IGNvbXBvc2l0aW9uIHB5dGhvbg%3D%3D
+28,Demonstrate an understanding of static methods vs. non-static methods,,,https://www.youtube.com/watch?v=PIKiHq1O9HQ&pp=ygUbc3RhdGljIHZzIG5vbiBzdGF0aWMgcHl0aG9u
+29,Use and understand exception handling (try/catch),,,https://www.youtube.com/watch?v=V_NXT2-QIlE&pp=ygUQdHJ5IGNhdGNoIHB5dGhvbg%3D%3D
+30,Create a basic wireframe,,,https://www.youtube.com/watch?v=KdfO_e0yK-g&pp=ygUSY3JlYXRlIGEgd2lyZWZyYW1l
+31,Demonstrate an understanding of the phases of the Software Development Life Cycle,,,https://www.youtube.com/watch?v=Fi3_BjVzpqk&pp=ygUfc29mdHdhcmUgZGV2ZWxvcG1lbnQgbGlmZSBjeWNsZQ%3D%3D
+32,"Demonstrate an understanding of at least 3 different development methodologies (waterfall, agile, prototyping)",,,https://www.youtube.com/watch?v=WSq72fWYLDE&pp=ygUZZGV2ZWxvcG1lbnQgbWV0aG9kb2xvZ2llcw%3D%3D
+33,"Use and understand the basics of document markup (Eg. HTML) by creating a page (or pages) that contain (at least) a paragraph, an image, a link, a list, a table, and multiple heading levels.",,,https://www.youtube.com/watch?v=I1aKHkLZrOA
+34,"Use and understand CSS and basic css selectors (tag, id, class, attribute)",,,https://www.youtube.com/watch?v=2BmvoxT8rEI
+35,Use CSS to create a responsive webpage that displays a page differently based on device width.,,,https://www.youtube.com/watch?v=49wIASnFzZg
+36,Manipulate a document with scripting (use JS to update the DOM),,,https://www.youtube.com/watch?v=x-TaJHWs4nU
+37,Make an api request and process the data (eg. JS Fetch),,,https://www.youtube.com/watch?v=XHokFQeQ6Lk\
+38,Use and understand polymorphism,,,https://www.youtube.com/watch?v=tHN8I_4FIt8
+39,Query a database table (Simple SELECT),,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+40,Query a database table with a restricted result set (WHERE),,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+41,Query multiple database tables to retrieve specific records (JOIN),,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+42,Query a database and group the results,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+43,Create a database table,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+44,Update a row (or rows) in a database table based on a condition,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+45,Insert a row in a database table,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+46,create an index on a table,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+47,Create and execute a database procedure,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+48,Create and query a database view,,,https://www.youtube.com/watch?v=xNJZYX6tpWU
+49,Create an ER diagram that clearly shows the relationship between tables,,,https://www.youtube.com/watch?v=KeYh9sU6SyQ
+50,"Use a programming language to connect to a database, query it, and then process the results",,,https://www.youtube.com/watch?v=2DuXpp7QvO4
+51,"Create a json file containing at least 1 nested object, 1 array, a string and a numeric type",,,https://www.youtube.com/watch?v=U8lq1JdabF8
+52,Demonstrate the ability to work from a Project Management System (Eg. Trello or GitLab) by managing tasks and updating cards.,,,https://www.youtube.com/watch?v=VxwmWuPojNo&pp=0gcJCfwAo7VqN5tD
+53,"Demonstrate understanding of code commenting through use of line comments, block comments, intellisense/Javadoc comments",,,https://www.youtube.com/watch?v=-ej8BMn5r-w
+54,Demonstrate ability to use a local repository (git),,,https://www.youtube.com/watch?v=HkdAHXoRtos
+55,Demonstrate ability to commit code and push it to a remote repository,,,https://www.youtube.com/watch?v=HkdAHXoRtos
+56,Demonstrate ability to pull code,,,https://www.youtube.com/watch?v=HkdAHXoRtos
+57,Demonstrate ability to clone a repository,,,https://www.youtube.com/watch?v=HkdAHXoRtos
+58,Demonstrate ability to merge code,,,https://www.youtube.com/watch?v=HkdAHXoRtos
+59,Demonstrate ability to revert code,,,https://www.youtube.com/watch?v=HkdAHXoRtos
+60,Create use case scenarios for an application,,,https://www.youtube.com/watch?v=4emxjxonNRI
+61,Demonstrate ability to write and run unit tests,,,https://www.youtube.com/watch?v=9TRA-UhTjGw
+62,"Demonstrate an understanding of the importance of ergonomics (posture, screen position, seating)",,,https://www.youtube.com/watch?v=9fsY_0xaC8g
+63,Demonstrate the ability to identify a phishing scam,,,https://www.youtube.com/watch?v=NguYJY5Hg3c
+64,Debugging: Add breakpoints and use them in a program,,,https://www.youtube.com/watch?v=b4p-SBjHh28
+65,Debugging: Run the program in debug mode,,,https://www.youtube.com/watch?v=b4p-SBjHh28
+66,Debugging: Step through the code line by line,,,https://www.youtube.com/watch?v=b4p-SBjHh28
+67,Debugging: Analyze variables in the debugging panel,,,https://www.youtube.com/watch?v=b4p-SBjHh28
+68,Linux: Demonstrate the ability to navigate the file system from the command line (cd),,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+69,Linux: Demonstrate the ability to list the content of a folder,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+70,Linux: Demonstrate the ability to add/remove files,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+71,Linux: Demonstrate the ability to add/remove folders,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+72,Linux: Demonstrate the ability to view help documentation on a command,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+73,Linux: Demonstrate the ability to use the grep command,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+74,Linux: Demonstrate the ability to use the head/tail commands,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+75,Linux: Demonstrate the ability to use the locate command,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
+76,Linux: Demonstrate the ability to install a program from the command line,,,https://www.youtube.com/watch?v=gd7BXuUQ91w
